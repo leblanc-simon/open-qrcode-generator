@@ -1,0 +1,15 @@
+{
+    "name": "leblanc-simon/open-qrcode-generator",
+    "description": "Simple website to generate QRCode",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Simon Leblanc",
+            "email": "contact@leblanc-simon.eu"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "endroid/qr-code": "^4.4"
+    }
+}
